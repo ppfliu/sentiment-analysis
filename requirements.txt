@@ -1,0 +1,7 @@
+Keras==2.2.4
+keras_bert==0.68.2
+numpy==1.18.1
+keras_self_attention==0.41.0
+pandas==0.24.2
+tensorflow_gpu==1.15.5
+tensorflow==2.8.0
