@@ -13,6 +13,11 @@ This repository releases the dataset crawled from Amazon reviews, where each rev
 To evaluate Chinese sentiment analysis, each review was labeled as positive (star 4, 5), negative (star 1, 2) and neutral (star 3),
 and was tokenized into characters for feeding the models.
 
+|       | #positive | #neutral | #negative |
+|-------|-----------|----------|-----------|
+| train | 46982     | 4272     | 4854      |
+| test  | 11710     | 1084     | 1233      |
+
 ## Installation
 Please setup a conda environment and install the required packages.
 ```
